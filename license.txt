@@ -1,0 +1,30 @@
+   _____ _   _____    ____  ____  ____ _       ___   ____    ____  ___    ____  __________ 
+  / ___// | / /   |  / __ \/ __ \/ __ \ |     / / | / / /   / __ \/   |  / __ \/ ____/ __ \
+  \__ \/  |/ / /| | / /_/ / / / / / / / | /| / /  |/ / /   / / / / /| | / / / / __/ / /_/ /
+ ___/ / /|  / ___ |/ ____/ /_/ / /_/ /| |/ |/ / /|  / /___/ /_/ / ___ |/ /_/ / /___/ _, _/ 
+/____/_/ |_/_/  |_/_/   /_____/\____/ |__/|__/_/ |_/_____/\____/_/  |_/_____/_____/_/ |_|  
+                                                                                           
+
+SnapDownloader
+
+SnapDownloader — Fast Video Grabber
+
+
+About
+- One-click download from major video sites with audio-only and merge options.
+- Full build: bulk URLs, built-in browser, format converter, scheduled night queue.
+- Platform: Windows macOS
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+snapdownloader, video-downloader, media, grabber, windows, mac, batch, converter
